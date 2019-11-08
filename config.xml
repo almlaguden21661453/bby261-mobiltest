@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "https://github.com/almlaguden21661453.mobiltest"
+    versionCode = "1"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Orjinal Manav</name>
+
+  <description>
+     Manav
+  </description>
+
+  <author href="https://github.com/almlaguden21661453" email="gudenalmla23@gmail.com">
+     Almıla Güden
+  </author>
+    
+  <icon src="icon.png" />
+
+</widget>
